@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Spertis
 #include "iostream"
 
 int main() {
